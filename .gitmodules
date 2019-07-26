@@ -1,0 +1,3 @@
+[submodule "themes/frugal"]
+	path = themes/frugal
+	url = https://github.com/onlurking/frugal

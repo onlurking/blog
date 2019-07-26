@@ -9,7 +9,7 @@ The theme name "XMin" can be interpreted as "**X**ie's **Min**imal theme" (Xie i
 
 # config.toml
 
-For this example site, I defined permalinks for two sections, `post` and `note`, so that the links to pages under these directories will contain the date info, e.g., `https://xmin.yihui.name/post/2016/02/14/a-plain-markdown-post/`. This is optional, and it is up to your personal taste of URLs.
+For this example site, I defined permalinks for two sections, `post` and `note`, so that the links to pages under these directories will contain the date info. This is optional, and it is up to your personal taste of URLs.
 
 ```
 [permalinks]
