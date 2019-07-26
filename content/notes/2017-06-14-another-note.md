@@ -2,6 +2,7 @@
 title: Another Note on A blogdown Tutorial
 author: Yihui Xie
 date: '2017-06-14'
+type: note
 categories:
   - Example
 tags:

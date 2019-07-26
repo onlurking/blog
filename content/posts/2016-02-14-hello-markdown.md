@@ -2,6 +2,8 @@
 title: A Plain Markdown Post
 author: Yihui Xie
 date: '2016-02-14'
+summary: This is a test
+type: post
 categories:
   - Example
   - Hugo

@@ -7,13 +7,17 @@ github = "https://github.com/onlurking"
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-    note = "/note/:year/:month/:day/:slug/"
+    post = "/posts/:slug/"
+    note = "/notes/:slug/"
 
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 1
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
 [[menu.main]]
     name = "Now"
     url = "/now/"

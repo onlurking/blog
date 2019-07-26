@@ -1,6 +1,7 @@
 ---
 title: Lorem Ipsum
 date: '2015-07-23'
+type: post
 categories:
   - Example
 tags:
