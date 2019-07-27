@@ -27,4 +27,4 @@ footnotereturnlinkcontents = "↩"
     url = "/index.xml"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Musings of yet another developer."
