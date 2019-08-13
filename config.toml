@@ -5,6 +5,8 @@ subtitle = "T-shaped Developer"
 theme = "frugal"
 github = "https://github.com/onlurking"
 footnotereturnlinkcontents = "↩"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [permalinks]
     post = "/posts/:slug/"
@@ -19,9 +21,13 @@ footnotereturnlinkcontents = "↩"
     url = "/notes/"
     weight = 2
 [[menu.main]]
+    name = "Reading"
+    url = "/reading/"
+    weight = 3
+[[menu.main]]
     name = "Now"
     url = "/now/"
-    weight = 2
+    weight = 4
 [[menu.main]]
     name = "Feed"
     url = "/index.xml"

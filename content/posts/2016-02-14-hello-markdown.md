@@ -17,7 +17,7 @@ tags:
 
 This sample post is mainly for [**blogdown**](https://github.com/rstudio/blogdown) users. If you do not use **blogdown**, you can skip the first section.
 
-# 1. Markdown or R Markdown
+## 1. Markdown or R Markdown
 
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:
 
@@ -43,7 +43,7 @@ Actually I recommend you to use the RStudio addin "New Post" instead:
 
 ![RStudio addin New Post](https://bookdown.org/yihui/blogdown/images/new-post.png)
 
-# 2. Sample Text
+## 2. Sample Text
 
 ## Second-level header
 

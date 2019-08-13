@@ -3,7 +3,7 @@
 title: Reading List
 ---
 
-## Reading
+## Current
 
 - [Company of One: Why Staying Small is the Next Big Thing for Business](https://ofone.co) <br>by Paul Jarvis
 - [CSS Refactoring: Architect Your Stylesheets For Success](http://www.cssrefactoringbook.com/) <br>by Steve Lindstrom
