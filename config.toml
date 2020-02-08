@@ -35,3 +35,8 @@ paginate = 200
 
 [params]
     description = "Musings of yet another developer."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
